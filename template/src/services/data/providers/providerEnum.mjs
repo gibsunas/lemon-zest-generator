@@ -1,0 +1,11 @@
+const PROVIDERS = {
+    EXPRESS: 'EXPRESS',
+    HTTP: 'HTTP',
+    INFLUX: 'INFLUX',
+    POSTGRES: 'POSTGRES',
+    REDIS: 'REDIS',
+    REDUX: 'REDUX',
+    SOCKETIO: 'SOCKETIO',
+};
+
+export default PROVIDERS;
